@@ -1,0 +1,27 @@
+<table style="width:100%">
+    <tr>
+        <th >8-10</th>
+        <th >10-12</th>
+        <th >18-20</th>
+       
+        <th>روز</th>
+    </tr>
+  
+    <tr>
+        
+        
+        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">الگوريتم هاي پيشرفته</a></th>
+        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">پایگاه داده پيشرفته</a></th>
+        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">سیتم عامل پیشرفته</a></th>
+        <th></th>
+        <th>چهارشنبه</th>
+    </tr>
+    <tr>
+        
+        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">داده کاوی</a></th>
+        <th ></th>
+        <th></th>
+        
+        <th>پنج شنبه</th>
+    </tr>
+</table>
