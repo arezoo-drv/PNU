@@ -7,7 +7,7 @@
 - [github](https://github.com/arezoo-drv)
 - [PNU](https://github.com/arezoo-drv/PNU)
 - [resume](https://arezoo-drv.github.io/ArezooDarvishi/#Home)
-- [SOP]() 
+- [SOP](https://arezoo-drv.github.io/SOP/) 
 - [javascript Certificate]()
 - [jlord patchwork](Patchwork.PNG)
   
