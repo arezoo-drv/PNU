@@ -19,7 +19,14 @@
 
 - [ارزیابی درس الگوریتم پیشرفته ](https://github.com/arezoo-drv/PNU_3991_AR/blob/main/General/AD_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
----------------------
+-------------------
+#تمرین
+i-[Kuth_Morris_Pratt AlGorithm]
+ii-[Binary search tree bubble Sort]
+iii-[Ford-fulkerson]
+
+
+----------------------
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
