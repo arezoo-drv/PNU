@@ -12,8 +12,11 @@
 - [jlord patchwork](Patchwork.PNG)
   
 ------------------
-
-
+# ارزیابی ها
+[ارزیابی رزومه و انگیزه نامه](https://github.com/arezoo-drv/PNU_3991_AR/blob/main/General/AD_CV_CheckList_AR_3991.pdf)
+[خلاصه ارزیابی بخش عمومی](https://github.com/arezoo-drv/PNU_3991_AR/blob/main/General/AD_GeneralSection_CheckList_AR_3991.pdf)
+[ارزیابی درس الگوریتم پیشرفته ](https://github.com/arezoo-drv/PNU_3991_AR/blob/main/General/AD_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+---------------------
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
