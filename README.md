@@ -20,9 +20,11 @@
 - [ارزیابی درس الگوریتم پیشرفته ](https://github.com/arezoo-drv/PNU_3991_AR/blob/main/General/AD_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 -------------------
-#تمرین
+# تمرین فردی
 
 i-[Kuth_Morris_Pratt AlGorithm]
+
+# تمرین گروهی
 
 ii-[Binary search tree bubble Sort](https://www.aparat.com/v/jk90Q)
 
