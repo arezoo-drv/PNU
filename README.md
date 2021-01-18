@@ -46,7 +46,7 @@ iii-[Ford-fulkerson](https://bahssanbeygi.github.io/ford-fulkerson/)
 
 ## دروس کارشناسی ارشد
 
-[1115025_01_166   الگوریتم پیشرفته ](https://github.com/bahssanbeygi/PNU_3991_AR/blob/main/AdvancedAlgorithms)
+[1115025_01_166   الگوریتم پیشرفته ](https://github.com/arezoo-drv/PNU_3991_AR/tree/main/AdvancedAlgorithm)
 <br>
 [1115023_01_166 سیستم عامل پیشرفته ]
 <br>
@@ -74,7 +74,7 @@ iii-[Ford-fulkerson](https://bahssanbeygi.github.io/ford-fulkerson/)
     <th></th>
     <th></th>
     <th>پایگاه داده پیشرفته</th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms" >الگوریتم پیشرفته<br>دکتر رضوی</th>
+    <th><a href="https://github.com/arezoo-drv/PNU_3991_AR/tree/main/AdvancedAlgorithm" >الگوریتم پیشرفته<br>دکتر رضوی</th>
     <th>چهارشنبه</th>
   </tr>
   <tr>
