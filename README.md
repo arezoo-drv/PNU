@@ -24,7 +24,7 @@
 
 i-[Kuth_Morris_Pratt AlGorithm]
 
-ii-[Binary search tree bubble Sort]
+ii-[Binary search tree bubble Sort](https://www.aparat.com/v/jk90Q)
 
 iii-[Ford-fulkerson]
 
