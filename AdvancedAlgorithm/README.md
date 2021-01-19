@@ -12,7 +12,7 @@
 -------------------
 # تمرین فردی
 
-i-[Kuth_Morris_Pratt AlGorithm]
+i-[Kuth_Morris_Pratt AlGorithm](https://aparat.com/v/AOcKY)
 
 # تمرین گروهی
 
