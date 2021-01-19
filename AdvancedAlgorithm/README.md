@@ -7,7 +7,7 @@
 
 - [خلاصه ارزیابی بخش عمومی](https://github.com/arezoo-drv/PNU_3991_AR/blob/main/General/AD_GeneralSection_CheckList_AR_3991.pdf)
 
-- [ارزیابی درس الگوریتم پیشرفته ](https://github.com/arezoo-drv/PNU_3991_AR/blob/main/General/AD_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+- [ارزیابی درس الگوریتم پیشرفته ](https://github.com/arezoo-drv/PNU_3991_AR/blob/main/General/AD2_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 -------------------
 # تمرین فردی
